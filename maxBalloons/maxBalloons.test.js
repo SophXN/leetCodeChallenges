@@ -1,3 +1,4 @@
+/* eslint-disable no-undef */
 const maxBalloons = require('./maxBalloons');
 
 describe('Max Balloons', () => {
