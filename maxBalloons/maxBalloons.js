@@ -48,3 +48,6 @@ const maxBalloons = (str) => {
 };
 
 module.exports = maxBalloons;
+
+// Runtime: 119 ms
+// Memory Usage: 39.1 MB
